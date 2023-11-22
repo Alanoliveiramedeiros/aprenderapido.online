@@ -24,7 +24,7 @@ header.header h1 {
 img.ultrasecreto {
   clear: both;
   display: block;
-  width: 80%;
+  width: 60%;
   margin: 25px auto 10px auto;
 }
 section.conteudo h2 {
@@ -273,7 +273,7 @@ footer.footer p {
 		margin: 10px auto 15px auto;
 	}	
 	header.header h1, section.conteudo h4 {
-		font-size: 16px;
+		font-size: 14px;
 	}
 	section.conteudo h2 {
 		font-size: 21px;
