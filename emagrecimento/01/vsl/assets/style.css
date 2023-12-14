@@ -306,7 +306,7 @@ footer.footer p {
 	clear: both;
 	display: block;
 	text-align: center;
-	font-size: 12px;
+	font-size: 11px;
 	margin: 0 0 20px 0;
   font-family: 'Poppins', sans-serif;
 }
@@ -330,11 +330,14 @@ footer.footer p {
 	}
   header.header {
     background: #000000;
-    padding: 50px 0;
-  margin-bottom: 25px;
+    padding: 20px 0;
+  margin-bottom: 8px;
   }
   header.header h1 {
     font-size: 15px;
+  }
+  .final {
+    font-size: 5px;
   }
   section.conteudo h2 {
     font-size: 17px;
